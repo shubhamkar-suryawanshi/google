@@ -1,0 +1,49 @@
+/* Part one */
+
+body {
+    font-family: sans-serif;
+}
+
+#nav_bar {
+    float: right;
+}
+
+#nav_bar li {
+    display: inline-block;
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Part two */
+
+#google_logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 112px;
+    padding-bottom: 20px;
+}
+
+.form {
+    text-align: center;
+}
+
+#form-search { 
+    width: 450px;
+    line-height: 32px;
+    padding: 20px 10px;
+}
+
+.form #form-search {
+    padding: 0 8px;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 300px;
+}
